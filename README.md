@@ -1,10 +1,8 @@
-# ✨ Welcom my Github page ✨
+# ✨ Hi ✨
 - [x] 😄 Nice
 - [x] 😄 To
 - [x] 😄 Meet
 - [x] 😄 You
-
-## 🌱 I’m currently learning ... a web front-end develop
 
 <!--
 **JHSeo-git/JHSeo-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
