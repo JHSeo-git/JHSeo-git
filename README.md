@@ -1,10 +1,6 @@
-# ✨ Hi ✨
-- [x] 😄 Nice
-- [x] 😄 To
-- [x] 😄 Meet
-- [x] 😄 You
-
+# ✨ Top Langs ✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHSeo-git)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
