@@ -6,9 +6,8 @@
 <h1 align="center">JH Seo</h1>
 <p align="center">
   Welcome my github🤟
-</p>
-<h2>✨ Top Langs ✨</h2>
-<p>
+  
+  ✨ My Top Langs ✨  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHSeo-git" />
   </a>
