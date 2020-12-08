@@ -5,10 +5,12 @@
 </p>
 <h1 align="center">JH Seo</h1>
 <p align="center">
-  Welcome my github🤟
-  
-  ✨ My Top Langs ✨  
+  Welcome my github 🤟
+</p>  
+<h4 align="center">✨ My Top Langs ✨</h4>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHSeo-git" />
   </a>
 </p>
+
